@@ -5,10 +5,10 @@ Sales dataset downloaded from Kaggle
 #Analysis: Sales of products and revenue generated in different Countries.
 
 #KEY PERFORMANCE INDICATORS
-Revenue
-Total number of products sold
-Number of Customers
-Number of products
+Revenue;
+Total number of products sold;
+Number of Customers;
+Number of products;
 
 #Insights from Dashboard
 Revenue generated from all countries is $8,760,971.
